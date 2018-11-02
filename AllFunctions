@@ -1,7 +1,4 @@
-Gmail	Savi Grover <savi.grover.sg92@gmail.com>
-Code - SAM
-Savi Grover <savi.grover@intsof.com>	30 June 2017 at 06:20
-To: "savi.grover.sg92@gmail.com" <savi.grover.sg92@gmail.com>
+
 Element_Load();
 
               Select_NestedTerm(getXMLList("TermNestedTerm"));
